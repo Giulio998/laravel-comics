@@ -1,0 +1,18 @@
+
+@use '~bootstrap/scss/bootstrap';
+
+
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+};
+
+.card{
+    height: 500px;
+}
+
+img{
+    height: 300px;
+}

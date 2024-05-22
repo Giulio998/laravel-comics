@@ -8,14 +8,5 @@
 @endsection
 
 <style>
-   h1{
-    padding-top: 50px;
-    margin: 0 auto;
-   }
 
-   .container{
-    width: 100%;
-    display: flex;
-    justify-content: center;
-   }
 </style>
